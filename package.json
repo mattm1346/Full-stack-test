@@ -1,0 +1,35 @@
+{
+  "name": "full-stack-test",
+  "version": "1.0.0",
+  "description": "doctor appointment booking system node.js mysql",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattm1346/Full-stack-test.git"
+  },
+  "keywords": [
+    "doctor",
+    "appointment",
+    "booking",
+    "system",
+    "node.js",
+    "mysql",
+    "elasticsearch",
+    "messenger",
+    "bot"
+  ],
+  "author": "Matt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mattm1346/Full-stack-test/issues"
+  },
+  "homepage": "https://github.com/mattm1346/Full-stack-test#readme",
+  "dependencies": {
+    "dotenv": "^11.0.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.2"
+  }
+}
